@@ -1,7 +1,7 @@
-# 🌊 FloodSense — Agro Pune Hackathon Project Build Instructions
+# 🌊 FloodSense — Pune Agri Hackathon Project Build Instructions
 > **For AI Agent (Anti-Gravity) Execution — Task-by-Task Build Guide**
 > Project: Terrain-Aware Flood Prediction & Simulation Web Platform
-> Context: Agro Pune Hackathon | Team: AIT Computer Science
+> Context: Pune Agri Hackathon | Team: AKARI
 
 ---
 
@@ -499,5 +499,5 @@ scipy==1.13.1
 
 ---
 
-*Generated for AIT Computer Science Team | Agro Pune Hackathon*
+*AKARI | Pune Agri Hackathon*
 *Build target: FloodSense v1.0 — Terrain-Aware Flood Prediction Platform*
