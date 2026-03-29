@@ -1,0 +1,15 @@
+{
+  "name": "floodsense",
+  "version": "1.0.0",
+  "description": "FloodSense — Terrain-Aware Flood Prediction & Simulation Web Platform",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "leaflet": "^1.9.4",
+    "axios": "^1.7.2",
+    "recharts": "^2.12.7",
+    "lucide-react": "^0.383.0",
+    "clsx": "^2.1.1"
+  }
+}

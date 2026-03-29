@@ -1,0 +1,42 @@
+/* ==========================================================================
+   FloodSense — Main Stylesheet
+   Theme: Dark command-center / emergency dashboard
+   ========================================================================== */
+
+/* --- CSS Variables --- */
+:root {
+  --bg-primary: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-tertiary: #21262d;
+
+  --color-safe: #22c55e;
+  --color-low-risk: #eab308;
+  --color-medium-risk: #f97316;
+  --color-high-risk: #ef4444;
+  --color-extreme-risk: #7f1d1d;
+  --color-accent: #38bdf8;
+
+  --color-text-primary: #f0f6fc;
+  --color-text-secondary: #8b949e;
+
+  --font-data: 'Space Mono', monospace;
+  --font-ui: 'DM Sans', sans-serif;
+}
+
+/* --- Reset --- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-ui);
+  background-color: var(--bg-primary);
+  color: var(--color-text-primary);
+  overflow: hidden;
+}
+
+/* --- Utility Classes (to be expanded in Phase 3) --- */
